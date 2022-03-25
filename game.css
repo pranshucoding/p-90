@@ -1,0 +1,40 @@
+body
+{
+	background: content-box radial-gradient(crimson, skyblue)}
+h1 {
+	color: rgba(0, 81, 255, 0.76);
+	text-align: center;
+	font-family: verdana;
+  }
+	.login_div1 , .login_div2
+	{
+		background: hsl(123, 94%, 49%);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: rgb(5, 132, 236);
+border-radius: 10px;
+border-top: 10px solid #558cc0;
+padding: 10px;
+float: none;
+text-align: left;
+}
